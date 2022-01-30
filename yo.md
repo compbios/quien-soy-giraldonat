@@ -10,7 +10,7 @@ As a Child I used to dream of speaking different languages and at this moment of
 For this year I started my Master in *Biostatistics*, because I'm in love with data analysis. <p>
 
 I love to program, so please do not hesitate to request my help, I'm more than glad to help you!<p>
-*Some programming language and Softwares that I know are*: Matlab, Arduino, Labview, Pseint, MPLAB, visual studio, oracle, Pseint, Unity and Ansys.
+*Some programming language and Softwares that I use are*: Matlab, Arduino, Labview, Pseint, MPLAB, visual studio, oracle, Pseint, Unity and Ansys.
   
 <blockquote>
 From Bogotá, Colombia to the World. Jan 29/2022

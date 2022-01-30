@@ -1,4 +1,4 @@
-# Resume: My pleasure to introduce my self!
+# Resume: It's my pleasure to introduce my self!
 
 ## Natalia Giraldo
 

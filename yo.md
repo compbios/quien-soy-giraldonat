@@ -1,21 +1,5 @@
-Hola soy **Fabián Gil**
+#Resume
+
+##Natalia Giraldo
 
 
-
-
-
-
-
-Soy *estadístico* y Bioestadístico
-
-
-
-
-
-
-
-Hola soy **Natalia Giraldo**
-
-<blockquote>
-Soy Ingeniera Biomédica y Estudiante de la maestría bioestadística :)
-hola

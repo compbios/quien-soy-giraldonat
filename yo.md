@@ -11,3 +11,6 @@ For this year I started my Master in *Biostatistics*, because I'm in love with d
 
 I love to program, so please do not hesitate to request my help, I'm more than glad to help you!<p>
 *Some programming language and Softwares that I know are*: Matlab, Arduino, Labview, Pseint, MPLAB, visual studio, oracle, Pseint, Unity and Ansys.
+
+ <blockquote>
+   Jan 29/2022

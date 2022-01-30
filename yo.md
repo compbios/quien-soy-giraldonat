@@ -13,5 +13,5 @@ I love to program, so please do not hesitate to request my help, I'm more than g
 *Some programming language and Softwares that I know are*: Matlab, Arduino, Labview, Pseint, MPLAB, visual studio, oracle, Pseint, Unity and Ansys.
   
 <blockquote>
-From Bogotá,Colombia to all World   Jan 29/2022
+From Bogotá, Colombia to World   Jan 29/2022
 

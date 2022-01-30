@@ -1,5 +1,5 @@
-#Resume
+# Resume
 
-##Natalia Giraldo
+## Natalia Giraldo
 
 

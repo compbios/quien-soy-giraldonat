@@ -2,7 +2,7 @@
 
 ## Natalia Giraldo
 
-Hi! I'm Natalia Giraldo a 25 years old Biomedical engineer. <p>
+Hi! I'm Natalia Giraldo a 25 years old *Biomedical engineer*. <p>
 In my spare time I like to read books, learn and practice languages, do exercise and enjoy my life with my family & friends <p>
 I've started a new challenge in my life which is Bullet Journaling <p>
 As a Child I used to dream talking different languages and in this moment of my life I think I'm reaching that Goal, I can speak three languages: **Spanish, English and French**. <p>

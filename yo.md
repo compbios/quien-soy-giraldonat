@@ -9,5 +9,5 @@ I've started a new challenge in my life which is Bullet Journaling. An inspire s
 As a Child I used to dream of speaking different languages and at this moment of my life I think I'm reaching that Goal, I can speak three languages: **Spanish, English and French**. <p>
 For this year I started my Master in *Biostatistics*, because I'm in love with data analysis <p>
 
-I love to program, so please do not hesitate to request my help, I'm more than glad to help you!
-*Some programming language and Softwares that I know are*: Matlab, Arduino, Labview, Pseint, MPLAB, visual studio, oracle and Ansys.
+I love to program, so please do not hesitate to request my help, I'm more than glad to help you!<p>
+*Some programming language and Softwares that I know are*: Matlab, Arduino, Labview, Pseint, MPLAB, visual studio, oracle, Pseint and Ansys.
